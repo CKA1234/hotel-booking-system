@@ -98,7 +98,7 @@
                       <i class="fa fa-quote-left"></i>
                     </span>
                     <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                    <p class="name">Mark Huff</p>
+                    <p class="name">Cyril</p>
                     <span class="position">Businesswoman</span>
                   </div>
                 </div>
