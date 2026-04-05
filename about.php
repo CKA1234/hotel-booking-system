@@ -84,7 +84,7 @@
                       <i class="fa fa-quote-left"></i>
                     </span>
                     <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                    <p class="name">Henry Dee</p>
+                    <p class="name">James</p>
                     <span class="position">Businesswoman</span>
                   </div>
                 </div>
